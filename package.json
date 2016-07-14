@@ -1,0 +1,25 @@
+{
+  "name": "modulo_banner",
+  "version": "1.0.0",
+  "description": "Module Menu via json ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Module",
+    "Menu",
+    "Json",
+    "Joomla"
+  ],
+  "author": "Mario Silva",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-compress": "^1.3.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}

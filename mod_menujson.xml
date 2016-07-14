@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="3.1.0" client="site" method="upgrade">
+    <name>MenuMobile - Json</name>
+    <author>Mario Eduardo</author>
+    <version>1.0.0</version>
+    <description>Module for menu via json.</description>
+    <files>
+        <filename>mod_menujson.xml</filename>
+        <filename module="mod_menujson">mod_menujson.php</filename>
+        <filename>helper.php</filename>
+        <filename>js/menuviajson.min.js</filename>
+        <filename>tmpl/default.php</filename>
+    </files>
+    <config>
+        <fields name="params">
+        </fields>
+    </config>
+</extension>
